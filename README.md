@@ -1,3 +1,1 @@
-# uber_clone
-
-Udemy course
+# Food delivery proj
